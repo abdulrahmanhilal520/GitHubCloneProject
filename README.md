@@ -143,8 +143,8 @@ public class Calculator extends JFrame implements ActionListener {
         new Calculator();
     }
 }
+ Modification in main branch.
 
- This is a new feature.
 
 
 
